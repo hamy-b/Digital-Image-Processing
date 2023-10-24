@@ -1,1 +1,1 @@
-# OCC
+# Digital Image Processing
